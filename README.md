@@ -11,4 +11,4 @@ Move to the project directory ```org.mehdi.datescrapper``` and run
 A jar file ```datescrapper-jar-with-dependencies.jar``` will be generated in ```/target``` subdirectory.  
 Move to ```target``` and run :  
 ```java -cp .\datescrapper-jar-with-dependencies.jar org.mehdi.datescrapper.App```  
-The path of the file to scrap and the result will be displayed in the terminal. 
+Enter the path of the file to scrap and the result will be displayed in the terminal. 
